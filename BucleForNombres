@@ -1,0 +1,11 @@
+public class BucleForNombres {
+
+    public static void main(String[] args) {
+
+        String[] nombres = {"julian", "pedro","heidi","roberto"};
+
+        for (int i = 0; i < nombres.length;i++){
+            System.out.println(nombres[i]);
+        }
+    }
+}
